@@ -2,7 +2,7 @@
 
 給 KOL / KOC 看的拍攝指南單頁網站，照片已內嵌於 HTML，單一檔案即可瀏覽。
 
-公開網址：https://ningchangggg.github.io/kingstable/
+公開網址：https://kings-table.github.io/
 
 三個主題的直連：網址後面加 `#ep1`、`#ep2`、`#ep3`
 
@@ -11,3 +11,5 @@
 - 已設定 `noindex` 與 `robots.txt`，有連結的人可以打開，但不會被搜尋引擎收錄
 
 更新流程：改好 iCloud 的成品檔 → `./build.sh` → `git commit -am "更新" && git push`
+
+舊網址 https://ningchangggg.github.io/kingstable/ （repo `ningchangggg/kingstable`，本機 remote 名稱 `personal-old`）只放一頁自動跳轉到新網址，不要再往那邊推內容。
